@@ -12,7 +12,7 @@ namespace GitHelloWorld
     [ServiceContract]
     public interface IService1
     {
-
+        
         [OperationContract]
         string GetData(int value);
 
@@ -27,6 +27,7 @@ namespace GitHelloWorld
     [DataContract]
     public class CompositeType
     {
+        string avv = "11111";
         bool boolValue = true;
         string stringValue = "Hello ";
 
