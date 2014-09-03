@@ -28,6 +28,8 @@ namespace GitHelloWorld
     public class CompositeType
     {
         string avv = "11111";
+
+        qqq
         bool boolValue = true;
         string stringValue = "Hello ";
 
