@@ -29,7 +29,6 @@ namespace GitHelloWorld
     {
         string avv = "11111";
 
-        qqq
         bool boolValue = true;
         string stringValue = "Hello ";
 
